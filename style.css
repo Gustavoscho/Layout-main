@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(61, 61, 57);
+}
+
+.azul{
+    background-color: blue;
+    padding:100px;
+}
+
+.amarelo{
+    background-color: rgb(255, 251, 0);
+    padding:100px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+    border-color: rgb(160, 25, 25);
+    border-style: solid;
+}
+.extender{
+    background-color: rgb(255, 251, 0);
+    padding-right: 340px;
+}
+div{
+    border-style: solid;
+    border-color: white;
+}
+.ex{
+    padding-bottom: 340px;
+}
+.esq{
+    padding-left: 340px;
+}
